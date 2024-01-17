@@ -1,7 +1,7 @@
 
 
 > [!IMPORTANT]  
-> Si vmaos a hacer un git clone dentro de la carpeta de packages/interfaces necesitamos poner lo siguiente en un archivo ``.gitmodules`` en la raiz del directus:
+> Si vamos a hacer un git clone dentro de la carpeta de packages/interfaces necesitamos poner lo siguiente en un archivo ``.gitmodules`` en la raiz del directus:
 
 ```yml
 [module "directus-extension-wpslug-interface"]
