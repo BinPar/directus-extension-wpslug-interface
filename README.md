@@ -1,6 +1,6 @@
 
 
-> [!IMPORTANT]  
+> [!CAUTION]  
 > Si vamos a hacer un git clone dentro de la carpeta de ``packages/interfaces`` necesitamos poner lo siguiente en un archivo ``.gitmodules`` en la raiz del directus:
 
 ```yml
