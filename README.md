@@ -1,3 +1,15 @@
+
+
+> [!IMPORTANT]  
+> Si vmaos a hacer un git clone dentro de la carpeta de packages/interfaces necesitamos poner lo siguiente en un archivo ``.gitmodules`` en la raiz del directus:
+
+```yml
+[module "directus-extension-wpslug-interface"]
+    path = packages/interfaces/directus-extension-wpslug-interface
+    url = https://github.com/BinPar/directus-extension-wpslug-interface.git
+    ignore = all
+```
+
 # WP Slug Interface
 
 WordPress alike slug/permalink interface
